@@ -13,7 +13,7 @@ public class Calculadora {
 		double res01= ope01.oper(1,2);
         System.out.println(res01);
         
-        // - Oper02 - Pedro 
+        // - Oper02 - Pedro
         Oper02 ope02=new Oper02();
     	double res02 = ope02.oper(1, 2);
     	System.out.println(res02);
