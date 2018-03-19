@@ -7,7 +7,9 @@ public class Calculadora {
 		OperEx opex=new OperEx();
 		double resEx = opex.oper(1, 2);
 		System.out.println(resEx);
-		
+
+		Oper01 ope01=new Oper01();
+		double res01= ope01.oper(1,2);
 		// ToDo - All Students Must Implement one Operation
 		// - Oper0X - Name
 	//	Oper0X ope0X=new Oper0X();
