@@ -9,5 +9,5 @@ public class Oper01 implements ItfOper {
             double op1, double op2) {
         return op1+pow(op2,2);
     }
-
+//
 }
