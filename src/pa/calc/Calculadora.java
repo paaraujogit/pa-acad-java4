@@ -13,6 +13,11 @@ public class Calculadora {
 		Oper01 ope01=new Oper01();
 		double res01= ope01.oper(1,2);
         System.out.println(res01);
+        
+        // - Oper02 - Pedro
+        Oper02 ope02=new Oper02();
+    	double res02 = ope02.oper(1, 2);
+    	System.out.println(res02);
 
 		// ToDo - All Students Must Implement one Operation
 		// - Oper0X - Name
