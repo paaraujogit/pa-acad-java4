@@ -8,8 +8,7 @@ public class Calculadora {
 		double resEx = opex.oper(1, 2);
 		System.out.println(resEx);
 
-
-		// - Oper01 - Ricardo
+		// Oper01 - Ricardo
 		Oper01 ope01=new Oper01();
 		double res01= ope01.oper(1,2);
         System.out.println(res01);
