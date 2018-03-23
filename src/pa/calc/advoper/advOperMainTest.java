@@ -20,7 +20,7 @@ class advOperMainTest {
 		
 		double resMulti = advOperMulti.oper(1, 2, 3);
 		
-		assertEquals (18, resMulti);
+		assertEquals (18, resMulti); 
 		
 	}
 
