@@ -6,7 +6,7 @@ public class advOperMain {
 	public static void main(String[] args) {
 		
 		advOperDiv advOperDiv = new advOperDiv();
-        double resDiv = advOperDiv.oper(1, 2, 3);
+        double resDiv = advOperDiv.oper(60, 120, 2);
         System.out.println(resDiv);
         
         advOperMulti advOperMulti = new advOperMulti();
